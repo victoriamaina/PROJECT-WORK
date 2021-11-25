@@ -1,9 +1,12 @@
 # PROJECT-WORK
 ## PROJECT WEEK - PREP :KENYAN CONFLICTS 
-The main objectives of this project is to identify the main causes of conflicts,the main actors involved in conflicts and to know the city that is susceptible to most conflict cases.Finding the major causes of conflict in Kenya can help the Ministry of Interior & Coordination of National Government focus on stopping those particular conflicts.
+The main objectives of this project is to identify the main causes of conflicts,the main actors involved in conflicts and to know the city that is susceptible to most conflict cases.Finding the major causes of conflict in Kenya can help the Ministry of Interior & Coordination of National Government focus on stopping those particular conflicts. 
+
+
 {Python Data Science Project}
 {Brief description of application}, {November, 2021}
-By {Kevin Kiprono,Victor Mwenda,Joshua Kibuye,Joan Chepkwony,Victoria Maina,Glady Weveti}
+# By
+{Kevin Kiprono,Victor Mwenda,Joshua Kibuye,Joan Chepkwony,Victoria Maina,Glady Weveti}
 Description
 {This is a Python Programming project whose objective is to identify the main causes of conflicts,the main actors involved in conflicts and to know the city that is susceptible to most conflict cases.}
  
