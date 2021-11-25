@@ -14,9 +14,13 @@ Description
  
 # Setup/Installation Requirements
 Use Google Colab  for data preparation and analysis.
+
 Import pandas and Numpy libraries for data manipulation.
+
 Importing matplotlib library for plotting
+
 Loading datasets and previewing datasets.
+
 Cleaning data; renaming values in columns for uniformity, and dropping insignificant columns.
  
 # Technologies Used
