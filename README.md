@@ -7,6 +7,8 @@ The main objectives of this project is to identify the main causes of conflicts,
 {Brief description of application}, {November, 2021}
 # By
 {Kevin Kiprono,Victor Mwenda,Joshua Kibuye,Joan Chepkwony,Victoria Maina,Glady Weveti}
+
+
 Description
 {This is a Python Programming project whose objective is to identify the main causes of conflicts,the main actors involved in conflicts and to know the city that is susceptible to most conflict cases.}
  
