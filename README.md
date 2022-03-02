@@ -1,5 +1,5 @@
-# PROJECT-WORK
-## PROJECT WEEK - PREP :KENYAN CONFLICTS 
+# A research on major cause of conflicts in Kenya on agiven dataset
+## A PROJECT ON KENYAN CONFLICTS 
 The main objectives of this project is to identify the main causes of conflicts,the main actors involved in conflicts and to know the city that is susceptible to most conflict cases.Finding the major causes of conflict in Kenya can help the Ministry of Interior & Coordination of National Government focus on stopping those particular conflicts. 
 
 
